@@ -132,7 +132,6 @@ The entry screen introducing AgroVision AI.
 
 <p align="center">
   <img src="<img width="768" height="1280" alt="AgroVision0" src="https://github.com/user-attachments/assets/4bf56277-20c3-405e-9461-d8b1f5344cec" />
-" width="250"/>
 </p>
 
 ---
