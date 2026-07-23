@@ -125,59 +125,15 @@ lib/
 
 ---
 
-# 📸 Application Screenshots
+#  Application Screenshots
 
-###  1. Welcome Screen
-The entry screen introducing AgroVision AI.
+| Welcome | Login | Home |
+|:-------:|:-----:|:----:|
+| <img src="https://github.com/user-attachments/assets/4bf56277-20c3-405e-9461-d8b1f5344cec" width="220"/> | <img src="https://github.com/user-attachments/assets/abd2d671-e0f4-4508-a0b2-9e9d9b0b3407" width="220"/> | <img src="https://github.com/user-attachments/assets/44d97d10-950b-4481-a386-76fb826026ca" width="220"/> |
 
-<p align="center">
-  <img src="<img width="768" height="1280" alt="AgroVision0" src="https://github.com/user-attachments/assets/4bf56277-20c3-405e-9461-d8b1f5344cec" />
-</p>
-
----
-
-###  2. User Authentication
-Secure login and registration using Firebase Authentication.
-
-<p align="center">
-  <img src="<img width="768" height="1280" alt="AgroVision01" src="https://github.com/user-attachments/assets/abd2d671-e0f4-4508-a0b2-9e9d9b0b3407" />
-" width="250"/>
-</p>
-
----
-
-###  3. Home Dashboard
-Main dashboard providing access to disease detection features.
-
-<p align="center">
-  <img src="<img width="768" height="1280" alt="AgroVision1" src="https://github.com/user-attachments/assets/44d97d10-950b-4481-a386-76fb826026ca" />
-  <img width="768" height="1280" alt="AgroVision3" src="https://github.com/user-attachments/assets/67380e83-b17c-4fa2-b7b4-1908b346be32" />
-" width="250"/>
-  
-</p>
-
-
-
----
-
-###  4. Leaf Image Selection & Crop
-Capture or select a leaf image from the gallery and crop it before analysis.
-
-<p align="center">
-  <img src="<img width="768" height="1280" alt="AgroVision5" src="https://github.com/user-attachments/assets/00575632-eadf-41ac-8a62-9f75b90d0716" />
-" width="250"/>
-</p>
-
----
-
-###  5. AI Disease Detection & Prediction Result
-TensorFlow Lite processes the image and predicts the disease & Displays the detected disease, confidence score.
-
-<p align="center">
-  <img src="<img width="960" height="1600" alt="AgroVision6" src="https://github.com/user-attachments/assets/31dce9f7-a24d-4064-97da-2a25625feb55" />
-" width="250"/>
-</p>
-
+| Dashboard | Crop Image | Prediction |
+|:---------:|:----------:|:----------:|
+| <img src="https://github.com/user-attachments/assets/67380e83-b17c-4fa2-b7b4-1908b346be32" width="220"/> | <img src="https://github.com/user-attachments/assets/00575632-eadf-41ac-8a62-9f75b90d0716" width="220"/> | <img src="https://github.com/user-attachments/assets/31dce9f7-a24d-4064-97da-2a25625feb55" width="220"/> |
 ---
 
 # Installation
