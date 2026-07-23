@@ -97,7 +97,7 @@ Suggested Remedies
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -203,18 +203,18 @@ flutter run
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you found this project helpful, consider giving it a ⭐ on GitHub.
+If you found this project helpful, consider giving it a on GitHub.
 
 ---
 
-## 📌 Disclaimer
+##  Disclaimer
 
 This repository is a **portfolio version** of the application developed during my internship. Proprietary company assets, confidential datasets, trained models, API keys, and credentials are **not included** in this repository.
